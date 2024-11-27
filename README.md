@@ -15,3 +15,6 @@ The database contains:
 
 An example of plotting rocking spectra is presented in
   > Example_for_Generating_SVMbased_Rocking _Spectra.mlx
+
+Author: Zhou Xun
+Email: 702135971@qq.com
