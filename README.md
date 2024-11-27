@@ -8,7 +8,9 @@ The database contains:
   > ClassificationLearner/SVMmodel.mat
 * Data for plotting numerical rocking spectra;
   > SpectraOutput/1.mat
+  > 
   > ...
+  > 
   > SpectraOutput/100.mat
 * Intensity measures of 100 sets of bidirectional ground motions.
   > IMs.xlsx
@@ -17,4 +19,5 @@ An example of plotting rocking spectra is presented in
   > Example_for_Generating_SVMbased_Rocking _Spectra.mlx
 
 Author: Zhou Xun
+
 Email: 702135971@qq.com
