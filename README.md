@@ -5,9 +5,11 @@ This is the database for the manuscript entitled "Rocking spectrum for cylindric
 The database contains:
 
 * Trained SVM models employed to develop rocking spectra in the manuscript;
-  > ClassificationLearner
+  > ClassificationLearner/SVMmodel.mat
 * Data for plotting numerical rocking spectra;
-  > SpectraOutput
+  > SpectraOutput/1.mat
+  > ...
+  > SpectraOutput/100.mat
 * Intensity measures of 100 sets of bidirectional ground motions.
   > IMs.xlsx
 
